@@ -1,0 +1,5 @@
+# This is a C# .NET project, so dependencies are managed via NuGet.
+# For building, ensure you have .NET 6.0+ SDK installed.
+# No external NuGet packages required; uses only System.Runtime.InteropServices and System.Diagnostics.
+# To build: dotnet build
+# To run: dotnet run (or run the compiled .exe as Administrator)
